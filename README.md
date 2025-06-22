@@ -10,6 +10,9 @@ O exercício original pode ser encontrado no repositório do professor:
 **Link do curso na Udemy:**
 https://www.udemy.com/course/java-curso-completo/
 
+**Link da aula específica do exercício:**
+https://www.udemy.com/course/java-curso-completo/learn/lecture/10793774#announcements/11957753/
+
 ## 🎯 Objetivo do Exercício
 
 Implementar um sistema de produtos utilizando os conceitos de **herança** e **polimorfismo** em Java, com três tipos diferentes de produtos:
