@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ExercicioHerancaPolimorfismo.iml" filepath="$PROJECT_DIR$/ExercicioHerancaPolimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductCatalogSystem.iml" filepath="$PROJECT_DIR$/ProductCatalogSystem.iml" />
     </modules>
   </component>
 </project>
